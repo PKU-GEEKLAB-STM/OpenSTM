@@ -11,9 +11,9 @@
 - [开发技术文档](#开发技术文档)
 - [版本发布命名规则](#版本发布命名规则)
 - [已发布的STM方案版本](#已发布的stm方案版本)
-  - [<u>Release OpenSTM v1.0.0</u>](#urelease-openstm-v100u)
-  - [<u>Release OpenSTM v2.0.0</u>](#urelease-openstm-v200u)
-  - [<u>Release OpenSTM v3.0.0</u>](#urelease-openstm-v300u)
+  - [Release OpenSTM v1.0.0](#release-openstm-v100)
+  - [Release OpenSTM v2.0.0](#release-openstm-v200)
+  - [Release OpenSTM v3.0.0](#release-openstm-v300)
 - [目前取得的成果](#目前取得的成果)
   - [隧穿距离-电流曲线](#隧穿距离-电流曲线)
   - [热解石墨（HOPG）的偏压-电流曲线](#热解石墨hopg的偏压-电流曲线)
@@ -24,6 +24,7 @@
 - [致谢](#致谢)
 - [参考工程](#参考工程)
 - [主要参考文献](#主要参考文献)
+- [Contributors](#contributors)
 
 # 简介
 
@@ -351,3 +352,6 @@ v2.0.0.zip内含的文件包括：
 
 [34]. Gao C, Kuhlmann-Wilsdorf D, Makel D D. The dynamic analysis of stick-slip motion[J]. Wear, 1994, 173(1-2): 1-12.
 
+# Contributors
+
+@myloft
